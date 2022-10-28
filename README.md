@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/agmonster08/FEM-Card-Component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://agmonster08.github.io/FEM-Card-Component/)
 
 ## My process
 -Do the mark up first
